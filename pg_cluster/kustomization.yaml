@@ -1,0 +1,6 @@
+resources:
+  - postgres-operator-namespace.yaml
+  - operator
+  - ui
+
+namespace: postgres-operator

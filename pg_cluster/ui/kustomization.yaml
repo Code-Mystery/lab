@@ -1,0 +1,6 @@
+kind: Kustomization
+resources:
+  - deployment.yaml
+  - ingress.yaml
+  - service.yaml
+  - ui-service-account-rbac.yaml

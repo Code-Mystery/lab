@@ -1,0 +1,6 @@
+kind: Kustomization
+resources:
+  - configuration.yaml
+  - operator-service-account-rbac.yaml
+  - postgres-operator.yaml
+  - api-service.yaml
