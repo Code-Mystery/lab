@@ -1,3 +1,6 @@
+# General
+I created this little test setup to try out Veleros capabilities of backing up and restore k8s clusters with dynamically provisioned PVs. Turns out it works fantastically.
+
 # Prerequisites
 - k3d installed
 - docker desktop with k8s installed
